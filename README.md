@@ -1,1 +1,2 @@
 # Webscraping-HW
+This homework was pretty fun to do. I feel the real applications I can do for webscraping and how to more efficiently gather data. It was super cool seeing all the data raking in with the code that I did. I will say in part two generating the loop was the hardest part. I had to get help from a tutor in order get that part of the code working. I understood everything and was super rewarding to work on. I feel that I can understand all html and css structures easily. 
